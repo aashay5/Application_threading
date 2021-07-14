@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application threading</string>
+    <string name="app_desc">This service is to generate a bound service</string>
+</resources>
